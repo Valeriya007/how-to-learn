@@ -1,0 +1,9 @@
+@import url(../blocks/footer/footer.css);
+.footer {
+  background-color: #1f1f1f;
+  color: #fff;
+  min-height: 350px;
+  display: flex;
+}
+
+

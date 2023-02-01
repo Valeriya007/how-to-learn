@@ -1,0 +1,8 @@
+@import url(../blocks/feynman/__subtitle/feynman__subtitle.css);
+.feynman__subtitle {
+  margin: 0;
+  font-size: 36px;
+  line-height: 51px;
+  font-weight: normal;
+  z-index: 1;
+}

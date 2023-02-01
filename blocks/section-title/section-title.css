@@ -1,0 +1,9 @@
+@import url(../blocks/section-title/section-title.css);
+.section-title {
+  width: 60%;
+  font-size: 60px;
+  line-height: 1.15;
+  font-weight: 600;
+  margin: 0 auto;
+  text-align: center;
+}

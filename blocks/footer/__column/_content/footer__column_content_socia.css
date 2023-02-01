@@ -1,0 +1,6 @@
+@import url(../blocks/footer/__column/_content/footer__column_content_socia.css);
+.footer__column_content_social {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+}

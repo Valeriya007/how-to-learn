@@ -1,0 +1,6 @@
+@import url(../blocks/table/__cell/table__cell.css);
+.table__cell {
+  width: 250px;
+  padding-top: 60px;
+  list-style: none;
+}

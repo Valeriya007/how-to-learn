@@ -1,0 +1,10 @@
+@import url(../blocks/cards/cards.css);
+.cards {
+  max-width: 920px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  padding: 0;
+}

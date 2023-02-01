@@ -1,0 +1,7 @@
+@import url(../blocks/video/video.css);
+.video {
+  display: flex;
+  flex-direction: column;
+  padding-top: 100px;
+  margin-bottom: -60px;
+}

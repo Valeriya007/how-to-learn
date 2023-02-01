@@ -1,0 +1,12 @@
+@import url(../blocks/resources/__logo-zone/resourсes__logo-zone.css);
+.resourсes__logo-zone {
+  max-width: 1100px;
+  width: 100%;
+  margin: 0 auto;
+  padding-left: 0;
+  padding-top: 80px;
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}

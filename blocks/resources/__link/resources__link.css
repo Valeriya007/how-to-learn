@@ -1,0 +1,8 @@
+@import url(../blocks/resources/__link/resources__link.css);
+.resources__link {
+  transition: opacity 0.4s;
+}
+
+.resources__link:hover {
+  opacity: 60%;
+}

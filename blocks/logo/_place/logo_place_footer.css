@@ -1,0 +1,4 @@
+@import url(../blocks/logo/_place/logo_place_footer.css);
+.logo_place_footer {
+  display: flex;
+}

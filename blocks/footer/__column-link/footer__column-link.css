@@ -1,0 +1,13 @@
+@import url(../blocks/footer/__column-link/footer__column-link.css);
+.footer__column-link {
+  font-size: 18px;
+  line-height: 30px;
+  font-weight: normal;
+  color: white;
+  text-decoration: none;
+  transition: opacity 0.4s;
+}
+
+.footer__column-link:hover {
+  opacity: 50%;
+}
